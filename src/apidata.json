@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development",
+        "image": "https://www.pexels.com/photo/apple-laptop-notebook-office-39284/",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard. "
+},
+{
+    "id": 2,
+    "title": "App Development",
+    "image": "https://www.pexels.com/photo/person-holding-smartphone-while-using-laptop-1181244/",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard. "
+},
+{
+    "id": 3,
+    "title": "Software Development",
+    "image": "https://www.pexels.com/photo/top-view-photo-of-group-of-people-using-macbook-while-discussing-3182773/",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard. "
+},
+{
+    "id": 4,
+    "title": "Digital Marketing",
+    "image": "https://www.pexels.com/photo/woman-holding-tablet-computer-3082341/",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard. "
+},
+{
+    "id": 5,
+    "title": "Graphic Desginer",
+    "image": "https://www.pexels.com/photo/notebook-beside-the-iphone-on-table-196644/",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard. "
+},
+{
+    "id": 6,
+    "title": "Thapa Codefest",
+    "image": "https://www.pexels.com/photo/close-up-photo-of-matrix-background-1089438/",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard. "
+}
+]
