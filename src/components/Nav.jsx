@@ -32,7 +32,7 @@ const Nav = () => {
               <NavLink
                 className="navbar-link"
                 onClick={() => setOpenMenu(false)}
-                to="/service"
+                to="/services"
               >
                 Services
               </NavLink>
